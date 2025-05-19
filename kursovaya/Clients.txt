@@ -1,0 +1,4 @@
+124;hadrami;Standard
+W;13;5399.00
+123;taleb;Standard
+W;12;1481.05
